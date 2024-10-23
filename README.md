@@ -1,8 +1,8 @@
 ### Olá! eu me chamo Cauê 🤝
 
 <p align="left">
-<img width="50%" src="https://github-readme-stats.vercel.app/api?username=ccaue&include_all_commits=true&show_icons=true&theme=radical&icon_color=DAD3AF&hide_border=true&border_radius=15&bg_color=0d1117"/>
-<img width="50%" src="http://github-readme-streak-stats.herokuapp.com?user=ccaue&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&sideNums=FFF"/><img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ccaue&hide=c%23,scss&include_all_commits=true&show_icons=true&theme=radical&icon_color=DAD3AF&layout=compact&hide_border=true&border_radius=15&bg_color=0d1117"/>
+<img width="50%" src="https://github-readme-stats.vercel.app/api?username=ccaue&include_all_commits=true&show_icons=true&theme=radical&icon_color=DAD3AF&hide_border=true&border_radius=15&bg_color=0d1117"/><img width="50%" src="http://github-readme-streak-stats.herokuapp.com?user=ccaue&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&sideNums=FFF"/>
+<img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ccaue&hide=c%23,scss&include_all_commits=true&show_icons=true&theme=radical&icon_color=DAD3AF&layout=compact&hide_border=true&border_radius=15&bg_color=0d1117"/>
 </p>
 
 ## Sobre mim
